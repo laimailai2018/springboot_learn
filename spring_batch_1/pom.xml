@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.laimailai</groupId>
-    <artifactId>springbatch_demo</artifactId>
+    <artifactId>spring_batch_1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springbatch_demo</name>
+    <name>spring_batch_1</name>
     <description></description>
 
     <properties>
