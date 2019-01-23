@@ -1,14 +1,18 @@
 #sentinel集成apollo
 
 ##一、参考资料
+
 ###1.Sentinel：
     https://github.com/alibaba/Sentinel
+
 ###2.apollo：
     https://github.com/ctripcorp/apollo
+
 ###3.前提：事先配置apollo服务
     https://github.com/ctripcorp/apollo/wiki/Quick-Start 
 
 ##二、如何集成
+
 ###1.apollo规则key：
     sentinel.flowrule.key
     
